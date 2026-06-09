@@ -5,7 +5,7 @@ system:
         error: "Something went wrong. Try again."
 model_config:
   model: "model://sfdc_ai__DefaultBedrockAnthropicClaude45Sonnet"
-#model_config:
+#model_config: 
 #  model: "model://llmgateway__OpenAIGPT52_12_11"
 
 config:
